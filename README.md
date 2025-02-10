@@ -1,9 +1,9 @@
 
 ### Pick Image Sample
 
-*- This app is for selecting multiple images from gallery
-*- After selecting we have to remove any selected image or not
-*- Using compose for UI 
+* This app is for selecting multiple images from gallery
+* After selecting we have to remove any selected image or not
+* Using compose for UI 
 
 
 <p align="center">
