@@ -1,5 +1,7 @@
 
-### Pick Image Sample
+## Pick Image Sample
+
+### This app is for developed with Jetpack compose for selecting an image from Gallery and Displaying it using Jetpack's Lazy column and Row respectively for representing the images in one below another.
 
 * This app is for selecting multiple images from gallery
 * After selecting we have to remove any selected image or not
